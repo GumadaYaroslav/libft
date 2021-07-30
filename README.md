@@ -62,3 +62,9 @@ Libft is a School 42 project. The purpose of this project is to create own C lib
 
 **Added personally**
 
+* [ft_str_rev](/libft/ft_str_rev_bonus.c)
+* [ft_strlen_l](/libft/ft_strlen_l_bonus.c)
+* [ft_is_int](/libft/ft_is_int.c)
+* [ft_is_sort](/libft/ft_is_sort.c)
+* [ft_if_string_is_num](/libft/ft_if_strig_is_num.c)
+* [ft_atoi_long](/libft/ft_atoi_long.c)
